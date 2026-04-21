@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_selector"
+        android:title="Accueil" />
+
+    <item
+        android:id="@+id/nav_rooms"
+        android:icon="@drawable/ic_rooms_selector"
+        android:title="Pièces" />
+
+    <item
+        android:id="@+id/nav_qr"
+        android:icon="@drawable/ic_qr_selector"
+        android:title="QR Code" />
+
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/ic_history_selector"
+        android:title="Historique" />
+
+</menu>

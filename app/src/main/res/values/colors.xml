@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Palette -->
+    <color name="deep_blue">#264653</color>
+    <color name="teal_green">#2A9D8F</color>
+    <color name="sand_yellow">#E9C46A</color>
+    <color name="orange_accent">#F4A261</color>
+    <color name="coral_red">#E76F51</color>
+
+    <!-- Light accents -->
+    <color name="light_teal">#55BDB3</color>
+    <color name="soft_red">#EF6F68</color>
+    <color name="cyan_blue">#4ECAD1</color>
+    <color name="dark_gray">#4B4B4B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#C5EEEEEE</color>
+    <color name="launcher_background">#FFFFFF</color>
+</resources>
